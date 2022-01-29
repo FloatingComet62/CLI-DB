@@ -1,0 +1,26 @@
+{
+  "name": "cli-db",
+  "version": "0.0.1",
+  "description": "A fucking database on a Command Line Tool. Idk what the fuck can you do with this? But it exists",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloatingComet62/CLI-DB.git"
+  },
+  "author": "FloatingComet62",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FloatingComet62/CLI-DB/issues"
+  },
+  "homepage": "https://github.com/FloatingComet62/CLI-DB#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.0",
+    "@types/node": "^17.0.13"
+  }
+}
